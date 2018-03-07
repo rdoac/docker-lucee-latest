@@ -1,0 +1,2 @@
+#!/bin/bash
+ /usr/bin/socat tcp-listen:25,reuseaddr,fork tcp:mailhog:1025 &
