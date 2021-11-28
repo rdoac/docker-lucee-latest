@@ -1,4 +1,4 @@
-FROM lucee/lucee53:latest
+FROM lucee/lucee:5.3
 
 ###
 ### Labels
